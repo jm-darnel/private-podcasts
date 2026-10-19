@@ -38,14 +38,14 @@ def main():
     files = sorted(p for p in d.iterdir() if p.suffix.lower() in (".m4a", ".mp3", ".mp4", ".aac", ".ogg"))
 
     items = []
-    for f in files:
+    for i, f in enumerate(files):
         dur, size = probe(f)
         url = f"{BASE}/{args.release_tag}/{f.name}"
         items.append(f"""    <item>
       <title>{html.escape(f.stem)}</title>
       <enclosure url="{url}" length="{size}" type="audio/x-m4a"/>
       <guid isPermaLink="false">{url}</guid>
-      <pubDate>{formatdate(time.time(), True)}</pubDate>
+      <pubDate>{formatdate(time.time() - (len(files) - i) * 3600, True)}</pubDate>
       <itunes:duration>{fmt_dur(dur)}</itunes:duration>
     </item>""")
 

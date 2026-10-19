@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>ML Lectures</title>
+    <link>https://jm-darnel.github.io/private-podcasts</link>
+    <language>en-us</language>
+    <itunes:author>Jonah Darnel</itunes:author>
+    <itunes:owner><itunes:name>Jonah Darnel</itunes:name></itunes:owner>
+    <description>ML Lectures - personal feed</description>
+    <item>
+      <title>ML_LECTURE_01</title>
+      <enclosure url="https://github.com/jm-darnel/private-podcasts/releases/download/6.036/ML_LECTURE_01.m4a" length="38064526" type="audio/x-m4a"/>
+      <guid isPermaLink="false">https://github.com/jm-darnel/private-podcasts/releases/download/6.036/ML_LECTURE_01.m4a</guid>
+      <pubDate>Mon, 19 Oct 2026 13:26:38 -0400</pubDate>
+      <itunes:duration>01:20:56</itunes:duration>
+    </item>
+  </channel>
+</rss>
