@@ -11,8 +11,15 @@
       <title>ML_LECTURE_01</title>
       <enclosure url="https://github.com/jm-darnel/private-podcasts/releases/download/6.036/ML_LECTURE_01.m4a" length="38064526" type="audio/x-m4a"/>
       <guid isPermaLink="false">https://github.com/jm-darnel/private-podcasts/releases/download/6.036/ML_LECTURE_01.m4a</guid>
-      <pubDate>Mon, 19 Oct 2026 13:26:38 -0400</pubDate>
+      <pubDate>Mon, 19 Oct 2026 12:27:50 -0400</pubDate>
       <itunes:duration>01:20:56</itunes:duration>
+    </item>
+    <item>
+      <title>ML_LECTURE_02</title>
+      <enclosure url="https://github.com/jm-darnel/private-podcasts/releases/download/6.036/ML_LECTURE_02.m4a" length="39652081" type="audio/x-m4a"/>
+      <guid isPermaLink="false">https://github.com/jm-darnel/private-podcasts/releases/download/6.036/ML_LECTURE_02.m4a</guid>
+      <pubDate>Mon, 19 Oct 2026 13:27:50 -0400</pubDate>
+      <itunes:duration>01:19:53</itunes:duration>
     </item>
   </channel>
 </rss>
