@@ -12,7 +12,7 @@ from pathlib import Path
 from email.utils import formatdate
 import time
 
-BASE = "https://github.com/jm-darnel/private-podcasts/releases/download"
+BASE = "https://jm-darnel.github.io/private-podcasts"
 FEED_URL = "https://jm-darnel.github.io/private-podcasts"
 
 def probe(path):
@@ -34,13 +34,15 @@ def main():
     ap.add_argument("--title", required=True)
     args = ap.parse_args()
 
+    repo = Path(__file__).parent
     d = Path(args.show_dir).expanduser()
+    rel_dir = str(Path(args.show_dir))  # e.g. shows/ml-6.036
     files = sorted(p for p in d.iterdir() if p.suffix.lower() in (".m4a", ".mp3", ".mp4", ".aac", ".ogg"))
 
     items = []
     for i, f in enumerate(files):
         dur, size = probe(f)
-        url = f"{BASE}/{args.release_tag}/{f.name}"
+        url = f"{BASE}/{rel_dir}/{f.name}"
         items.append(f"""    <item>
       <title>{html.escape(f.stem)}</title>
       <enclosure url="{url}" length="{size}" type="audio/x-m4a"/>
