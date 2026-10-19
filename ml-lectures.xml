@@ -11,15 +11,22 @@
       <title>ML_LECTURE_01</title>
       <enclosure url="https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_01.m4a" length="38064526" type="audio/x-m4a"/>
       <guid isPermaLink="false">https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_01.m4a</guid>
-      <pubDate>Mon, 19 Oct 2026 12:36:32 -0400</pubDate>
+      <pubDate>Mon, 19 Oct 2026 12:11:28 -0400</pubDate>
       <itunes:duration>01:20:56</itunes:duration>
     </item>
     <item>
       <title>ML_LECTURE_02</title>
       <enclosure url="https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_02.m4a" length="39652081" type="audio/x-m4a"/>
       <guid isPermaLink="false">https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_02.m4a</guid>
-      <pubDate>Mon, 19 Oct 2026 13:36:32 -0400</pubDate>
+      <pubDate>Mon, 19 Oct 2026 13:11:28 -0400</pubDate>
       <itunes:duration>01:19:53</itunes:duration>
+    </item>
+    <item>
+      <title>ML_LECTURE_03</title>
+      <enclosure url="https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_03.m4a" length="40247360" type="audio/x-m4a"/>
+      <guid isPermaLink="false">https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_03.m4a</guid>
+      <pubDate>Mon, 19 Oct 2026 14:11:28 -0400</pubDate>
+      <itunes:duration>01:21:14</itunes:duration>
     </item>
   </channel>
 </rss>
