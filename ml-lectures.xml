@@ -8,130 +8,130 @@
     <itunes:owner><itunes:name>Jonah Darnel</itunes:name></itunes:owner>
     <description>ML Lectures - personal feed</description>
     <image>
-      <url>https://jm-darnel.github.io/private-podcasts/art.png</url>
+      <url>https://jm-darnel.github.io/private-podcasts/ml-cover.png</url>
       <title>ML Lectures</title>
       <link>https://jm-darnel.github.io/private-podcasts</link>
     </image>
-    <itunes:image href="https://jm-darnel.github.io/private-podcasts/art.png"/>
+    <itunes:image href="https://jm-darnel.github.io/private-podcasts/ml-cover.png"/>
     <item>
       <title>ML_LECTURE_01</title>
       <enclosure url="https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_01.m4a" length="38064526" type="audio/x-m4a"/>
       <guid isPermaLink="false">https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_01.m4a</guid>
-      <pubDate>Thu, 12 Nov 2026 23:55:20 -0500</pubDate>
+      <pubDate>Thu, 12 Nov 2026 23:55:35 -0500</pubDate>
       <itunes:duration>01:20:56</itunes:duration>
-      <itunes:image href="https://jm-darnel.github.io/private-podcasts/art.png"/>
+      <itunes:image href="https://jm-darnel.github.io/private-podcasts/ml-cover.png"/>
     </item>
     <item>
       <title>ML_LECTURE_02</title>
       <enclosure url="https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_02.m4a" length="39652081" type="audio/x-m4a"/>
       <guid isPermaLink="false">https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_02.m4a</guid>
-      <pubDate>Fri, 13 Nov 2026 00:55:20 -0500</pubDate>
+      <pubDate>Fri, 13 Nov 2026 00:55:35 -0500</pubDate>
       <itunes:duration>01:19:53</itunes:duration>
-      <itunes:image href="https://jm-darnel.github.io/private-podcasts/art.png"/>
+      <itunes:image href="https://jm-darnel.github.io/private-podcasts/ml-cover.png"/>
     </item>
     <item>
       <title>ML_LECTURE_03</title>
       <enclosure url="https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_03.m4a" length="40247360" type="audio/x-m4a"/>
       <guid isPermaLink="false">https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_03.m4a</guid>
-      <pubDate>Fri, 13 Nov 2026 01:55:20 -0500</pubDate>
+      <pubDate>Fri, 13 Nov 2026 01:55:35 -0500</pubDate>
       <itunes:duration>01:21:14</itunes:duration>
-      <itunes:image href="https://jm-darnel.github.io/private-podcasts/art.png"/>
+      <itunes:image href="https://jm-darnel.github.io/private-podcasts/ml-cover.png"/>
     </item>
     <item>
       <title>ML_LECTURE_04</title>
       <enclosure url="https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_04.m4a" length="40301415" type="audio/x-m4a"/>
       <guid isPermaLink="false">https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_04.m4a</guid>
-      <pubDate>Fri, 13 Nov 2026 02:55:20 -0500</pubDate>
+      <pubDate>Fri, 13 Nov 2026 02:55:35 -0500</pubDate>
       <itunes:duration>01:21:13</itunes:duration>
-      <itunes:image href="https://jm-darnel.github.io/private-podcasts/art.png"/>
+      <itunes:image href="https://jm-darnel.github.io/private-podcasts/ml-cover.png"/>
     </item>
     <item>
       <title>ML_LECTURE_05</title>
       <enclosure url="https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_05.m4a" length="38142254" type="audio/x-m4a"/>
       <guid isPermaLink="false">https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_05.m4a</guid>
-      <pubDate>Fri, 13 Nov 2026 03:55:20 -0500</pubDate>
+      <pubDate>Fri, 13 Nov 2026 03:55:35 -0500</pubDate>
       <itunes:duration>01:22:11</itunes:duration>
-      <itunes:image href="https://jm-darnel.github.io/private-podcasts/art.png"/>
+      <itunes:image href="https://jm-darnel.github.io/private-podcasts/ml-cover.png"/>
     </item>
     <item>
       <title>ML_LECTURE_06</title>
       <enclosure url="https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_06.m4a" length="40291088" type="audio/x-m4a"/>
       <guid isPermaLink="false">https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_06.m4a</guid>
-      <pubDate>Fri, 13 Nov 2026 04:55:20 -0500</pubDate>
+      <pubDate>Fri, 13 Nov 2026 04:55:36 -0500</pubDate>
       <itunes:duration>01:21:14</itunes:duration>
-      <itunes:image href="https://jm-darnel.github.io/private-podcasts/art.png"/>
+      <itunes:image href="https://jm-darnel.github.io/private-podcasts/ml-cover.png"/>
     </item>
     <item>
       <title>ML_LECTURE_07</title>
       <enclosure url="https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_07.m4a" length="13856" type="audio/x-m4a"/>
       <guid isPermaLink="false">https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_07.m4a</guid>
-      <pubDate>Fri, 13 Nov 2026 05:55:20 -0500</pubDate>
+      <pubDate>Fri, 13 Nov 2026 05:55:36 -0500</pubDate>
       <itunes:duration>00:00:27</itunes:duration>
-      <itunes:image href="https://jm-darnel.github.io/private-podcasts/art.png"/>
+      <itunes:image href="https://jm-darnel.github.io/private-podcasts/ml-cover.png"/>
     </item>
     <item>
       <title>ML_LECTURE_08</title>
       <enclosure url="https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_08.m4a" length="40796210" type="audio/x-m4a"/>
       <guid isPermaLink="false">https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_08.m4a</guid>
-      <pubDate>Fri, 13 Nov 2026 06:55:20 -0500</pubDate>
+      <pubDate>Fri, 13 Nov 2026 06:55:36 -0500</pubDate>
       <itunes:duration>01:22:14</itunes:duration>
-      <itunes:image href="https://jm-darnel.github.io/private-podcasts/art.png"/>
+      <itunes:image href="https://jm-darnel.github.io/private-podcasts/ml-cover.png"/>
     </item>
     <item>
       <title>ML_LECTURE_09</title>
       <enclosure url="https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_09.m4a" length="40626515" type="audio/x-m4a"/>
       <guid isPermaLink="false">https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_09.m4a</guid>
-      <pubDate>Fri, 13 Nov 2026 07:55:20 -0500</pubDate>
+      <pubDate>Fri, 13 Nov 2026 07:55:36 -0500</pubDate>
       <itunes:duration>01:21:54</itunes:duration>
-      <itunes:image href="https://jm-darnel.github.io/private-podcasts/art.png"/>
+      <itunes:image href="https://jm-darnel.github.io/private-podcasts/ml-cover.png"/>
     </item>
     <item>
       <title>ML_LECTURE_10</title>
       <enclosure url="https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_10.m4a" length="36268559" type="audio/x-m4a"/>
       <guid isPermaLink="false">https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_10.m4a</guid>
-      <pubDate>Fri, 13 Nov 2026 08:55:20 -0500</pubDate>
+      <pubDate>Fri, 13 Nov 2026 08:55:36 -0500</pubDate>
       <itunes:duration>01:13:11</itunes:duration>
-      <itunes:image href="https://jm-darnel.github.io/private-podcasts/art.png"/>
+      <itunes:image href="https://jm-darnel.github.io/private-podcasts/ml-cover.png"/>
     </item>
     <item>
       <title>ML_LECTURE_11</title>
       <enclosure url="https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_11.m4a" length="40084095" type="audio/x-m4a"/>
       <guid isPermaLink="false">https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_11.m4a</guid>
-      <pubDate>Fri, 13 Nov 2026 09:55:20 -0500</pubDate>
+      <pubDate>Fri, 13 Nov 2026 09:55:36 -0500</pubDate>
       <itunes:duration>01:20:47</itunes:duration>
-      <itunes:image href="https://jm-darnel.github.io/private-podcasts/art.png"/>
+      <itunes:image href="https://jm-darnel.github.io/private-podcasts/ml-cover.png"/>
     </item>
     <item>
       <title>ML_LECTURE_12</title>
       <enclosure url="https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_12.m4a" length="39954842" type="audio/x-m4a"/>
       <guid isPermaLink="false">https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_12.m4a</guid>
-      <pubDate>Fri, 13 Nov 2026 10:55:20 -0500</pubDate>
+      <pubDate>Fri, 13 Nov 2026 10:55:36 -0500</pubDate>
       <itunes:duration>01:20:32</itunes:duration>
-      <itunes:image href="https://jm-darnel.github.io/private-podcasts/art.png"/>
+      <itunes:image href="https://jm-darnel.github.io/private-podcasts/ml-cover.png"/>
     </item>
     <item>
       <title>ML_LECTURE_13</title>
       <enclosure url="https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_13.m4a" length="35005644" type="audio/x-m4a"/>
       <guid isPermaLink="false">https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_13.m4a</guid>
-      <pubDate>Fri, 13 Nov 2026 11:55:20 -0500</pubDate>
+      <pubDate>Fri, 13 Nov 2026 11:55:36 -0500</pubDate>
       <itunes:duration>01:10:34</itunes:duration>
-      <itunes:image href="https://jm-darnel.github.io/private-podcasts/art.png"/>
+      <itunes:image href="https://jm-darnel.github.io/private-podcasts/ml-cover.png"/>
     </item>
     <item>
       <title>ML_LECTURE_14</title>
       <enclosure url="https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_14.m4a" length="41545321" type="audio/x-m4a"/>
       <guid isPermaLink="false">https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_14.m4a</guid>
-      <pubDate>Fri, 13 Nov 2026 12:55:20 -0500</pubDate>
+      <pubDate>Fri, 13 Nov 2026 12:55:36 -0500</pubDate>
       <itunes:duration>01:23:01</itunes:duration>
-      <itunes:image href="https://jm-darnel.github.io/private-podcasts/art.png"/>
+      <itunes:image href="https://jm-darnel.github.io/private-podcasts/ml-cover.png"/>
     </item>
     <item>
-      <title>ML_LECTURE_15</title>
-      <enclosure url="https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_15.m4a" length="14621490" type="audio/x-m4a"/>
-      <guid isPermaLink="false">https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/ML_LECTURE_15.m4a</guid>
-      <pubDate>Fri, 13 Nov 2026 13:55:20 -0500</pubDate>
+      <title>Schumer PANICS As Chris Van Hollen Enters Race</title>
+      <enclosure url="https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/Schumer PANICS As Chris Van Hollen Enters Race.m4a" length="14621490" type="audio/x-m4a"/>
+      <guid isPermaLink="false">https://jm-darnel.github.io/private-podcasts/shows/ml-6.036/Schumer PANICS As Chris Van Hollen Enters Race.m4a</guid>
+      <pubDate>Fri, 13 Nov 2026 13:55:36 -0500</pubDate>
       <itunes:duration>00:28:43</itunes:duration>
-      <itunes:image href="https://jm-darnel.github.io/private-podcasts/art.png"/>
+      <itunes:image href="https://jm-darnel.github.io/private-podcasts/ml-cover.png"/>
     </item>
   </channel>
 </rss>
